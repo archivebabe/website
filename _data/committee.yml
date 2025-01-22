@@ -15,7 +15,7 @@
   img: ''
   rollover: ''
 - role: Theatre Manager
-  name: Charlotte Reese
+  name: Matt Adcock
   email: theatremanager
   img: ''
   rollover: ''
@@ -34,7 +34,7 @@
   alias_role: StuFF Coordinator
   img: ''
 - role: External Relations Manager
-  name: ''
+  name: Ben Adeniji
   email: external
   img: ''
   rollover: ''
@@ -51,7 +51,7 @@
   group: backstage
   img: ''
 - role: Company Stage Manager
-  name: Lauren Isherwood
+  name: Jimmy Pays
   email: li.csm
   img: ''
   rollover: ''
@@ -88,12 +88,12 @@
   img: ''
   rollover: ''
 - role: Creatives Coordinator
-  name: Ali Seaborne
+  name: Charlie Lowe
   email: creatives
   img: ''
   rollover: ''
 - role: Events and Engagment Officer
-  name: ''
+  name: Aisling Macdonald
   email: engagement
   img: ''
   rollover: ''
@@ -107,7 +107,7 @@
   email: social
   img: ''
 - role: Archivist
-  name: Meg Isaac
+  name: Charlie Dix
   email: itmanager
   img: ''
   rollover: ''
