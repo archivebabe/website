@@ -15,7 +15,7 @@
   img: ''
   rollover: ''
 - role: Theatre Manager
-  name: Charlotte Reese
+  name: Matt Adcock
   email: theatremanager
   img: ''
   rollover: ''
@@ -34,7 +34,7 @@
   alias_role: StuFF Coordinator
   img: ''
 - role: External Relations Manager
-  name: ''
+  name: Ben Adeniji
   email: external
   img: ''
   rollover: ''
@@ -51,19 +51,19 @@
   group: backstage
   img: ''
 - role: Company Stage Manager
-  name: Lauren Isherwood
-  email: li.csm
+  name: Jimmy Pays
+  email: jp.csm
   img: ''
   rollover: ''
 - role: Company Workshop Manager
-  name: ''
-  email: cmc
+  name: Sara Hodgson
+  email: cwm
   group: backstage
   img: ''
   rollover: ''
 - role: Technical Manager
   name: Rachel Hoddes
-  email: techmanager
+  email: rh.tm
   group: backstage
   img: ''
   rollover: ''
@@ -72,11 +72,6 @@
   email: bb.techdirector
   group: backstage
   img: ''
-- role: Company Technical Director
-  name: ''
-  email: cr.techdirector
-  img: ''
-  rollover: ''
 - role: Marketing Coordinator
   name: Kieran Bell
   email: kieran.marketing
@@ -88,18 +83,18 @@
   img: ''
   rollover: ''
 - role: Creatives Coordinator
-  name: Ali Seaborne
+  name: Charlie Lowe
   email: creatives
   img: ''
   rollover: ''
 - role: Events and Engagment Officer
-  name: ''
+  name: Aisling Macdonald
   email: engagement
   img: ''
   rollover: ''
 - role: Costume, Props and Make-Up Manager
   name: Tara Wynne-Edwards
-  email: costume
+  email: CPM
   group: backstage
   img: ''
 - role: Social and Fundraising Coordinator
@@ -107,7 +102,7 @@
   email: social
   img: ''
 - role: Archivist
-  name: Meg Isaac
-  email: itmanager
+  name: Charlie Dix
+  email: archivist
   img: ''
   rollover: ''
